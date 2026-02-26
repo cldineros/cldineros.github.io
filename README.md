@@ -22,7 +22,7 @@ I write clear, user-focused help content for merchants in Google through an inte
 - **As measured by:** A projected reduction in manual administrative work and follow-up misses, leading to faster total resolution time for the technical writing lifecycle.
 - **By doing:** Authoring the Project Charter, User Acceptance Testing Document, Business Requirements Document, FTE Savings Calculator, and other relavant documents to fully launch the project as an official process.
 
-**Sample document:** [Project Charter (with redactions)](site)
+**Sample document:** [Project Charter (with redactions)](https://docs.google.com/document/d/1512VIx5wTiJdU1a-i9TA9depPXirejtjKpQW8reDaHY/edit?usp=sharing)
 
 ---
 
@@ -31,19 +31,18 @@ I write clear, user-focused help content for merchants in Google through an inte
 - **As measured by:** Completion of batches of complex bugs ahead of schedule and the successful upskilling of fellow Google Merchant Center Help Center writers.
 - **By doing:** Applying AI-generated product knowledge suggestions to Help Center content based on customer feedback and leading technical refresher training to standardise nuanced coding and localisation processes for the team.
 
-**Sample article:** [Project Charter (with redactions)](site)
+**Sample article:** [Link a partner with your Merchant Centre account](https://support.google.com/merchants/answer/14172216?hl=en-gb)
 
 ---
 
 ## Skills
 - Markdown
-- Git
+- HTML5
 - API Documentation
-- UX Writing
 - Information Architecture
 
 ---
 
 ## Contact
-Email: your@email.com  
-LinkedIn: link
+Email: cldineros.work@gmail.com  
+LinkedIn: [linkedin.com/in/cldineros-tech-writer](https://www.linkedin.com/in/cldineros-tech-writer/)
