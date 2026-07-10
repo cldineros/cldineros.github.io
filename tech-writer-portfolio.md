@@ -64,10 +64,15 @@ I’m a Senior Technical Writer & Content Strategist with 4+ years of experience
 
 ---
 
-## Core skills
-*   **Languages & Frameworks:** Markdown, HTML5, Information Architecture
-*   **Specialisations:** API Documentation (Google Merchant Centre Content API), Feature Deprecations
-*   **Leadership:** Stakeholder Management, Content Request Triaging, Nesting Onboarding Lead 
+## Skills
+- **Technical Writing & Documentation**
+   - End-to-End Content Lifecycle, Help Center Management, UI/UX Copy, Feature Deprecation Notices, Troubleshooting & Onboarding Guides, Terminology Overhauls, Search Engine Optimization (SEO), Adaptability to Iterative Process Improvement
+- **Triaging & Stakeholder Management**
+  - Google Workspace, Google Issue Tracker (Jira-equivalent), Google Help Center CMS (Wordpress-equivalent), Gemini/LLM Prompt Engineering, HTML5, Markdown language
+- **Quality Assurance & Compliance**
+  - Content Quality Governance (Accuracy Audits, Peer Reviews, Quality Scoring), AI-integrated Content Review, SLA/Timeliness Adherence, Technical Assessment Design & Grading
+- **Leadership & Operations**
+  - Agile/Scrum Collaboration, Global Team Training, Peer-to-peer leadership & coaching, Onboarding and Mentorship to new writers, Resource Optimization (FTE Savings), Process Automation
 
 ---
 
