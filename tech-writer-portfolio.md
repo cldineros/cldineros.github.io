@@ -1,8 +1,8 @@
 # Claire Dineros | Technical Writer
-**Operational Excellence | Information Architecture | AI-Augmented Workflows**
+**Content Lifecycle Management | Cross-functional Collaboration and Triaging | Editorial Excellence**
 
 ## About Me
-I am a high-performing Technical Writer at the Google Operations Center with a proven track record of delivering precise, user-centric documentation at scale. I specialise in navigating complex product launches, automating documentation governance, and integrating AI-assisted authoring into global workflows.
+I’m a Senior Technical Writer & Content Strategist with 4+ years of experience within Google Operations, with a proven track record of leading complex, high-volume documentation launches, adaptability to iterative process improvement, and optimization of content workflows through AI integration.
 
 ---
 
