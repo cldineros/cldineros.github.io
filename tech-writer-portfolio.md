@@ -8,19 +8,7 @@ I’m a Senior Technical Writer & Content Strategist with 4+ years of experience
 
 ## Writing Samples
 
-### 1. Help Content with Complex Structural Design: Merchant Center Pickup Feature Launch with Troubleshooter
-- **Accomplished**: Led a high stakeholder-visibility launch spanning 25 Google Help Center articles, including a Troubleshooter (Wizard-equivalent) article with 37 modular content IDs and a Feature Availability Matrix with a Faceted Data Table with 27 modular content IDs standardizing the Pickup feature of Google Shopping and Merchant Center. Publishing this launch is synchronized with the launch of Google Merchant Center platform UI updates.
-- **Metric**: Launch consisted of 22 existing and 1 new Google Help Center articles, including a troubleshooter (wizard-equivalent) article with 37 modular content IDs and a Feature Availability Matrix with a Faceted Data Table with 27 modular content IDs, each article and modular content ID to be localized in 45 languages under a sensitive, urgent deadline with a 100% Quality Score.
-- **Methodology**: Content lifecycle management consisting of drafting, coding, and strategic bulk localization (L10N) management to ensure zero "Out of SLA" (OOSLA) incidents during a critical Merchant Center UI update and product launch.
-
-**Live samples**: 
-- [Find your path to local inventory ads and free local listings](https://support.google.com/merchants/troubleshooter/15264061) (Troubleshooter/Wizard article) 
-- [About annotations and badges in Shopping ads and free listings](https://support.google.com/google-ads/table/15696143) (Feature Availability Matrix article with a Faceted Data Table)
-- [Pickup](https://support.google.com/merchants/answer/16761172) (Main launch article, New article)
-
----
-
-### 2. High-Stake Stakeholder Visibility: Annual Product Data Specification Launch
+### 1. High-Stake Stakeholder Visibility: Annual Product Data Specification Launch
 - **Accomplished**: Led the annual end-to-end documentation lifecycle for the primary Product Data Specification Launch and its subsequent extension, Merchant Center Tax Feature Deprecation. Created new articles for high-complexity product attributes and performed significant technical updates to ensure consistency across all involved Merchant Center Help Center articles.
 - **Metric**: Maintained a 100% Quality Score while executing complex coding and urgent localization management for 10 articles, including a Troubleshooter (Wizard-equivalent) article with 88 content IDs, all with 45 locales each in a single business day. Successfully managed a total of 38 content IDs for the launch extension, ensuring on-time delivery despite sensitive global deadlines and shifting project requirements.
 - **Methodology**: Performed complex drafting, coding, and urgent localization management of updates to shipping functionality, requirements, and policies to loyalty program and price, as well as help content for attribute transitions. Exercised Stakeholder Influence by providing real-time progress trackers and written reports to Product Operations Managers (POMs) to facilitate transparency. Utilized strategic bulk localization management with specialized language sets and multi-locale synchronization to maintain instructional accuracy across 45 locales.
@@ -32,7 +20,7 @@ I’m a Senior Technical Writer & Content Strategist with 4+ years of experience
 
 ---
 
-### 3. UX Writing and Semantic Information Architecture: Policy and Data Quality UI Diagnostics
+### 2. UX Writing and Semantic Information Architecture: Policy and Data Quality UI Diagnostics
 - **Accomplished**: 
    - Acted as the primary Writer Point of Contact (POC) for leading the transformation of high-complexity legal and product policies and data quality issues into concise, bespoke diagnostics UI content (pop-up boxes) to enhance user comprehension within the Merchant Center interface.
    - Acted as project-specific Global Trainer for training fellow writers on identifying additional policies and data quality issues and requirements in existing Merchant Center diagnostics UI content to draft, code, and publish in Google Ads and Merchant Center policy articles.
@@ -45,7 +33,7 @@ I’m a Senior Technical Writer & Content Strategist with 4+ years of experience
 
 ---
 
-### 4. Strategic Documentation Governance: Tech Writing Triaging & Stakeholder Communication
+### 3. Strategic Documentation Governance: Tech Writing Triaging & Stakeholder Communication
 - **Accomplished**: Served as a Senior Triager and Triaging Trainer, acting as the primary editorial gatekeeper and analytical bridge between stakeholders and international writing teams. Expertly distilled complex and ambiguous stakeholder requests into high-precision technical writing instructions for Google Help Center, ensuring that Documentation Lifecycle Management (DLM) remained consistent across global tech writing sites (Manila, Hyderabad, and Mississippi). 
 - **Metric**: Successfully scoped and triaged 100 bugs for 2025, and, as a newly-trained Triager, led a high-impact initiative where I provided tech writing recommendations for 80+ stale bugs in 1 business day to resolve help content technical debt. Audited 32+ high-traffic articles for data integrity, identified and remediated a critical internal link exposure to ensure global security compliance. Received praise from stakeholders for providing detailed coding recommendations that facilitated a seamless global update. Scaled global triaging operations by facilitating the first standardized Global Triaging Training and leading the training of 6 new triager-trainees.
 - **Methodology**: Engineered a suite of templated Issue Tracker comments (Drafting, Coding, and Localization) to standardize writer handovers and minimize instructional errors. Developed a structured triaging framework to evaluate bug feasibility and determine the optimal resolution path based on resource bandwidth and semantic Information Architecture. Exercised Stakeholder Management by providing technical diagnostics, clarifying action items, and ensuring all documentation updates balanced user needs with technical product requirements. Created and maintained a centralized repository of stakeholders and Subject Matter Experts (SMEs) or Information Knowledge Managers to facilitate institutional knowledge retention across global sites.
