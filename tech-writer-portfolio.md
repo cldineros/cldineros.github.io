@@ -1,8 +1,8 @@
 # Claire Dineros | Technical Writer
 **Content Lifecycle Management | Cross-functional Collaboration and Triaging | Editorial Excellence**
 
-## About Me
-I’m a Senior Technical Writer & Content Strategist with 4+ years of experience within Google Operations, with a proven track record of leading complex, high-volume documentation launches, adaptability to iterative process improvement, and optimization of content workflows through AI integration.
+## About
+Senior Associate Technical Writer & Content Strategist with 4+ years of experience within Google Operations. Proven track record of leading high-volume documentation launches, adaptability to iterative process improvement, strategic stakeholder alignment and technical writing triaging, and optimization of content workflows through AI integration.
 
 ---
 
